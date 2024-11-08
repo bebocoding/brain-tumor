@@ -3,7 +3,7 @@ A brain-tumor classifier. Classify a tumor as one of these types `glioma_tumor, 
 
 # Example image
 this is an image of a person that has a `glioma_tumor` in his brains
-![giloma tumor](<Training/glioma_tumor/gg (1).jpg>)
+* ![giloma tumor](<Training/glioma_tumor/gg (1).jpg>)
 
 # Tools
 python, numpy, pandas, scikit-learn
