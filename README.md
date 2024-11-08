@@ -2,7 +2,10 @@
 A brain-tumor classifier. Classify a tumor as one of these types `glioma_tumor, meningioma_tumor, no_tumor, pituitary_tumor` applying classical machine techniques. The dataset has hundreds of images of an x-ray scan for individuals' head, whome might have a type of tumor in their brain.
 
 # Example image
+This is an example of an x-ray scan of a person's brain diagonsed with `glioma_tumor`, which is mostly malignant.
+
 ![giloma tumor](<Training/glioma_tumor/gg (1).jpg>)
+
 
 # Tools
 python, numpy, pandas, scikit-learn
