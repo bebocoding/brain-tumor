@@ -1,5 +1,5 @@
 # brain-tumor predictor
-A brain-tumor classifier. Classify a tumor as one of these types `glioma_tumor, meningioma_tumor, no_tumor, pituitary_tumor` applying classical machine techniques. The dataset are hundreds of images of a x-ray scan for individuals' head, whome might have a type of tumor in their brain.
+A brain-tumor classifier. Classify a tumor as one of these types `glioma_tumor, meningioma_tumor, no_tumor, pituitary_tumor` applying classical machine techniques. The dataset has hundreds of images of an x-ray scan for individuals' head, whome might have a type of tumor in their brain.
 
 # Example image
 ![giloma tumor](<Training/glioma_tumor/gg (1).jpg>)
